@@ -1,2 +1,0 @@
-# CarouselMenu
-Carousel menu
